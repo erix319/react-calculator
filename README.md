@@ -1,6 +1,6 @@
 # React Calculator
 
-<p><a href="https://pafuluofu.github.io/react-calculator/"><b>&#9654; Live demo</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/pafuluofu/react-calculator">Source</a></p>
+<p><a href="https://pafuluofu-dev.github.io/react-calculator/"><b>&#9654; Live demo</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/pafuluofu-dev/react-calculator">Source</a></p>
 
 ## Overview
 
